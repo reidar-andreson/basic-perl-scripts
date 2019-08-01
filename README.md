@@ -1,2 +1,2 @@
-# basic-perl-scripts
+# Genomic tools
 Useful Perl script for various tasks
